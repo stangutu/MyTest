@@ -1,2 +1,3 @@
 # MyTest
-This is my test
+This is a test
+of my Git knowledge
